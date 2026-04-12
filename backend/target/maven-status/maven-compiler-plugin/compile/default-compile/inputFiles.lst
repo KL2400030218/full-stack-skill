@@ -1,6 +1,6 @@
-/Users/avinashreddypadala/FULL STACK SKILL/Skill-13/backend/src/main/java/com/fsad/skill13/Skill13Application.java
-/Users/avinashreddypadala/FULL STACK SKILL/Skill-13/backend/src/main/java/com/fsad/skill13/controller/GlobalExceptionHandler.java
-/Users/avinashreddypadala/FULL STACK SKILL/Skill-13/backend/src/main/java/com/fsad/skill13/controller/StudentController.java
-/Users/avinashreddypadala/FULL STACK SKILL/Skill-13/backend/src/main/java/com/fsad/skill13/model/Student.java
-/Users/avinashreddypadala/FULL STACK SKILL/Skill-13/backend/src/main/java/com/fsad/skill13/repository/StudentRepository.java
-/Users/avinashreddypadala/FULL STACK SKILL/Skill-13/backend/src/main/java/com/fsad/skill13/service/StudentService.java
+/Users/avinashreddypadala/FULL STACK SKILL/Skill-16/backend/src/main/java/com/fsad/skill16/Skill16Application.java
+/Users/avinashreddypadala/FULL STACK SKILL/Skill-16/backend/src/main/java/com/fsad/skill16/controller/GlobalExceptionHandler.java
+/Users/avinashreddypadala/FULL STACK SKILL/Skill-16/backend/src/main/java/com/fsad/skill16/controller/StudentController.java
+/Users/avinashreddypadala/FULL STACK SKILL/Skill-16/backend/src/main/java/com/fsad/skill16/model/Student.java
+/Users/avinashreddypadala/FULL STACK SKILL/Skill-16/backend/src/main/java/com/fsad/skill16/repository/StudentRepository.java
+/Users/avinashreddypadala/FULL STACK SKILL/Skill-16/backend/src/main/java/com/fsad/skill16/service/StudentService.java

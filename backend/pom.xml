@@ -12,13 +12,14 @@
     </parent>
 
     <groupId>com.fsad</groupId>
-    <artifactId>skill13-backend</artifactId>
+    <artifactId>skill16-backend</artifactId>
     <version>1.0.0</version>
-    <name>skill13-backend</name>
-    <description>Deployment-ready student CRUD backend for Skill 13</description>
+    <name>skill16-backend</name>
+    <description>Student CRUD backend with Swagger for Skill 16</description>
 
     <properties>
         <java.version>17</java.version>
+        <springdoc.version>2.8.6</springdoc.version>
     </properties>
 
     <dependencies>
@@ -29,6 +30,11 @@
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-validation</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>org.springdoc</groupId>
+            <artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
+            <version>${springdoc.version}</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>
