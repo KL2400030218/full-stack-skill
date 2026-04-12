@@ -1,0 +1,38 @@
+.container{
+  width:60%;
+  margin:auto;
+  text-align:center;
+}
+
+h2{
+  margin-bottom:20px;
+}
+
+.form input{
+  margin:5px;
+  padding:8px;
+}
+
+button{
+  padding:8px 12px;
+  margin:5px;
+  background-color:#007bff;
+  color:white;
+  border:none;
+  cursor:pointer;
+}
+
+.delete{
+  background-color:red;
+}
+
+table{
+  width:100%;
+  margin-top:20px;
+  border-collapse:collapse;
+}
+
+th, td{
+  border:1px solid #ccc;
+  padding:10px;
+}
